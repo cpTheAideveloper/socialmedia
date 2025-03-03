@@ -1,36 +1,72 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Aquí tienes el archivo `README.md` en **Markdown**, siguiendo las instrucciones que proporcionaste:  
 
-## Getting Started
+```markdown
+# theAIDeveloper
 
-First, run the development server:
+Learn how to create your own AI apps.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+![Logo](https://d3erng0hrrd7m4.cloudfront.net/logo.png)
+
+## Content Planning App
+
+**Description:** This project demonstrates how to build a **content planning application** using **Next.js**, **TypeScript**, **Tailwind CSS**, and the **OpenAI API**. Users can generate content ideas based on industry, frequency, and content type.
+
+**Structure:**
+- **`src/app/`** - Core pages and API routes.
+- **`src/components/ui/`** - UI components.
+- **`src/types/`** - Type definitions.
+- **`.env`** - Environment variables.
+- **`tsconfig.json`** - TypeScript configuration.
+
+**Technology:**
+- Next.js
+- TypeScript
+- Tailwind CSS
+- OpenAI API
+
+## 🚀 Projects
+
+Explore more exciting AI projects at [theAIDeveloper Projects](https://www.the-aideveloper.com/projects).
+
+## 📖 Guides
+
+For step-by-step tutorials, visit [theAIDeveloper Guides](https://www.the-aideveloper.com/guides).
+
+## 👨‍💻 Author
+
+**Carlos Polanco** — Passionate AI & web developer.
+
+## 🎓 Learn More
+
+If you want to learn more, visit **[theAIDeveloper.com](https://www.the-aideveloper.com).**
+
+## 🔗 Connect with Us
+
+[![YouTube](./social/youtube.png)](https://www.youtube.com/@theaideveloper)
+[![Instagram](./social/instagram.png)](https://www.instagram.com/cptheaideveloper/)
+[![Twitter](./social/x.png)](https://x.com/cpaideveloper)
+[![TikTok](./social/tiktok.png)](https://www.tiktok.com/@codingnutella)
+[![LinkedIn](./social/linkedin.png)](https://www.linkedin.com/company/theaidevelopercp/)
+
+## 🖥️ GitHub
+
+Visit our GitHub profile: [cpTheAideveloper](https://github.com/cpTheAideveloper)
+
+## 🌍 Website
+
+Explore our website: [theAIDeveloper.com](https://www.the-aideveloper.com/)
+
+## 📝 License
+
+This project is **free** and licensed under the [MIT License](LICENSE).
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### ✅ **Key Features in This README:**
+- Clear **project introduction** and **image centering**.
+- **Project structure** and **technology stack** details.
+- **Highlighted "Projects" and "Guides" sections** to drive exploration.
+- **Author information and "Learn More" section**.
+- **Social media links with icons**.
+- **MIT License statement**.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This README presents your project professionally and encourages further engagement with **theAIDeveloper** resources. 🚀
