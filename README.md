@@ -1,6 +1,3 @@
-Aquí tienes el archivo `README.md` en **Markdown**, siguiendo las instrucciones que proporcionaste:  
-
-```markdown
 # theAIDeveloper
 
 Learn how to create your own AI apps.
